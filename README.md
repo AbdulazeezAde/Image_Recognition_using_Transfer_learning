@@ -1,8 +1,4 @@
----
-noteId: "61f528107bbc11f0bc86550961b8a399"
-tags: []
 
----
 
 # Real-Time Face Classification
 
