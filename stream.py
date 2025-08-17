@@ -12,7 +12,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 num_classes = 3
-checkpoint_path = r"C:\Users\abdul\OneDrive\Documents\images_class\image_classification_model.pth"
+checkpoint_path = "image_classification_model.pth"
 
 # Correct mapping from training
 class_names = ["davido", "rihanna", "ronaldo"]
