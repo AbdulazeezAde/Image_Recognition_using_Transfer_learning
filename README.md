@@ -30,7 +30,7 @@ This project uses a ResNet50-based PyTorch model to classify faces detected from
 3. **Model Checkpoint**:
     - Place your trained model checkpoint at:
       ```
-      C:\Users\abdul\OneDrive\Documents\images_class\image_classification_model.pth
+      "image_classification_model.pth
       ```
     - Ensure the checkpoint matches the model architecture in `stream.py`.
 
